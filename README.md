@@ -1,4 +1,4 @@
-## Breif: mini technical test
+## Brief: mini technical test
 
 > You must have a basic understanding of Javascript, and modern front-end frameworks such as React.
 
