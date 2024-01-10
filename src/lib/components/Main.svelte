@@ -101,7 +101,6 @@
 			/>
 		</aside>
 	</div>
-	<div class="semi-circle"></div>
 </main>
 
 <style lang="scss">

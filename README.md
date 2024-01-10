@@ -1,5 +1,9 @@
 ## Brief: mini technical test
 
+To run, please `npm i && npm run dev` or [click to view the project](https://radiant-dolphin-c1e948.netlify.app/)
+
+---
+
 > You must have a basic understanding of Javascript, and modern front-end frameworks such as React.
 
 Svelte was chosen for this "mini-test"
@@ -52,13 +56,13 @@ Conditional types could be good in this context as the data changes as it's comb
 
 > Can you explain how context API or Redux can be integrated into this project for state management?
 
-For React, it would need to be installed and integrated, it would manage the state of of the countries seen within the UI.
+For React, Redux would need to be installed and integrated (then I would need to call getters and setters) it would manage the state of of the countries seen within the UI. For this project context API would be more apt as it's part of React, however in this context neither are needed as Svelte handles state in a different way.
 
 ## Submission
 
 Submit an answer github repo inviting @alexanderkustov or @victoriasilberbauer10, otherwise a zip file to alex[@]axate.com, victoria[@]axate.com
 
-With the questions above, either reply to us via email with them or put it in part of your README, as any other instructions to run your project.>
+With the questions above, either reply to us via email with them or put it in part of your README, as any other instructions to run your project.
 
 ## Notes
 
